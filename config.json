@@ -1,6 +1,7 @@
 {
   "server": "social.n8e.dev",
   "home-timeline-length": 200,
+  "from-notifications": 1,
   "max-bookmarks": 40,
   "max-followings": 80
 }
